@@ -20,3 +20,7 @@ Lista dos repositórios dos alunos de algoritmos
 ## Renato Monteiro - [B4G4C31R0](https://github.com/B4G4C31R0)
 * [Lista 02](https://github.com/B4G4C31R0/lista2) - *Completo*
 
+---
+
+## Antônio "Ruckus Flanco" Vicente - [Antonio2Beta](https://github.com/Antonio2Beta)
+* [Lista 02](https://github.com/Antonio2Beta/PensePy01/blob/master/Lista2.py) - "Incompletozinho"
